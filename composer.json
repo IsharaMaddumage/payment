@@ -1,0 +1,12 @@
+{
+    "name": "cs/payment",
+    "description": "Payment gateway design pattern",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ishara",
+            "email": "ishara@gmail.com"
+        }
+    ],
+    "require": {}
+}
